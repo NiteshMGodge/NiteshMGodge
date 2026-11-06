@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Nitesh Godge
 
-<!--
-**NiteshMGodge/NiteshMGodge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack .NET Developer
 
-Here are some ideas to get you started:
+💻 C# | ASP.NET | MVC | Web API | MySQL | SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a Full Stack .NET Developer experienced in developing web applications, REST APIs, and database-driven business solutions.
+
+- Developing applications using C# and ASP.NET.
+- Working with Web APIs and database integration.
+- Experience in enterprise application development.
+- Interested in learning new technologies.
+
+## 🛠️ Technical Skills
+
+- **Languages:** C#, SQL, JavaScript
+- **Frameworks:** ASP.NET Web Forms, MVC, ASP.NET Core, Web API
+- **Databases:** MySQL, SQL Server
+- **Frontend:** HTML, CSS, Bootstrap, Angular
+- **Tools:** Visual Studio, Git, GitHub, Postman, IIS
+
+## 🚀 Projects & Professional Experience
+
+### 1. Attendance Management System
+Employee attendance management and tracking.
+
+### 2. Credit Note Management System
+Credit note creation, approval workflow and SAP integration.
+
+### 3. Remote Reporter Management System
+Reporter registration, information management and OTP verification.
+
+### 4. Receipt Management System
+Online receipt creation and management.
+
+### 5. Sakal Task Management System
+Task creation, assignment and tracking.
+
+### 6. Pantry Management System
+Pantry operations and transaction management.
+
+### 7. Vehicle Management System
+Vehicle information and record management.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/NiteshMGodge
+- LinkedIn: Add your LinkedIn URL here
+
+---
+⭐ Thank you for visiting my profile!
